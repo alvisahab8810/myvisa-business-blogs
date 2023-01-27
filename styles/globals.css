@@ -1,0 +1,10 @@
+@import "all.min.css";
+@import "bootstrap.min.css";
+@import "simple-line-icons.css";
+@import "slick.css";
+@import "style.css";
+/* @import "bootstrap/dist/css/bootstrap.min.css"; */
+@import "toastr";
+.breadcrumb .breadcrumb-item a{text-decoration: none;}
+.loginbtn{font-weight: 900;}
+.main-content-auth{margin-top:25px;}
